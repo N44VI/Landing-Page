@@ -27,3 +27,16 @@ ul{
     align-items: center;
     padding: 20px;
 }
+
+/* Hero section I think (ಥ _ʖಥ) */
+
+header .container{
+    display: flex;
+    background-color: #1F2937;
+    justify-content: center;
+    color: white; 
+}
+.container img{
+    width: 400px;
+    height: auto;
+}
