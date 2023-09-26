@@ -4,15 +4,19 @@
     box-sizing: border-box;
     margin: 0;
     padding:0;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family:'Poppins', Geneva, Tahoma, sans-serif;
+
 }
+
 .navbar a {
     text-decoration: none;
     color: white;
+    font-size: 18px;
 }
 .navbar .logo{
     color: white;
-    font-weight: bolder;
+    font-weight:900;
+    font-size: 20px;
 }
 ul{
     list-style: none;
@@ -35,8 +39,23 @@ header .container{
     background-color: #1F2937;
     justify-content: center;
     color: white; 
+    padding: 50px;
 }
 .container img{
     width: 400px;
     height: auto;
+}
+.mainHero{
+    font-size: 48px;
+    font-weight:900;
+
+}
+
+header .content{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-around;
+    border-style: solid;
+    max-width: 700px;
 }
