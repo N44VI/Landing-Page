@@ -73,3 +73,69 @@ header .button{
 header .contenthero{
     margin: 8px 0;
 }
+
+
+/* box section (✖﹏✖) */
+.boxes{
+    text-align: center;
+    margin-top: 30px;
+}
+.box1, .box2, .box3, .box4{
+    width:100px;
+    height: 100px;
+    border-style: solid;
+    
+
+}
+.boxes .container{
+    display: flex ;
+    justify-content: center;
+    border-style: solid;
+    height: 300px;
+    align-items: center;
+}
+
+
+/* quote section ༼ಢ_ಢ༽ */
+
+.sectiontwo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-style: solid;
+    height: 300px;
+}
+
+/* blue banner thing section  (;﹏;)*/
+
+.sectionthree{
+    text-align: center;
+    border-style: solid;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sectionthree .container{
+  /*   border-style: solid; */
+    width: 800px;
+    height: 100px;
+    display: flex;
+    background-color: #3882F6 ;
+    border-radius: 10px;
+    color: white;    
+}
+
+
+/* feet ༼ಢ_ಢ༽ */
+
+footer{
+    display: fleX;
+    justify-content: center;
+    align-items: center ;
+/*     border-style: solid; */
+    height: 100px;
+    background-color: #1F2937;
+    color: white;
+}
+/* fiiix allll of this tomorrow */
