@@ -30,6 +30,7 @@ ul{
     background-color: #1F2937;
     align-items: center;
     padding: 20px;
+
 }
 
 /* Hero section I think (ಥ _ʖಥ) */
@@ -40,6 +41,7 @@ header .container{
     justify-content: center;
     color: white; 
     padding: 50px;
+
 }
 .container img{
     width: 400px;
@@ -177,4 +179,5 @@ footer{
     height: 100px;
     background-color: #1F2937;
     color: white;
+    
 }
